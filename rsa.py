@@ -1,3 +1,5 @@
+@osmanmuratgull
+@RSA ALGORİTMASININ BASİT BİR MANTIĞI
 import random
 import math
 
